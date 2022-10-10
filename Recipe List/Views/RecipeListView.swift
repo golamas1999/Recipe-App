@@ -31,6 +31,7 @@ struct RecipeListView: View {
                     .navigationTitle("All Recipes")
         }
     }
+        
 }
                                
 struct RecipeListView_Previews: PreviewProvider {
